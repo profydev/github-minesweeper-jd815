@@ -15,6 +15,9 @@
 	"clear H7",
 	"clear H6",
 	"clear G6",
-	"flag G5"
+	"flag G5",
+	"clear G7",
+	"flag G8",
+	"clear H5"
   ]
 }
